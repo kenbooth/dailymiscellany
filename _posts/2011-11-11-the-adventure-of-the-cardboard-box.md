@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Adventure of the Cardboard Box"
+title: "The Adventure of the Kayak Box"
 author: "Arthur Conan Doyle"
 categories: literature
 ---
