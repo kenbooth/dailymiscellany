@@ -44,4 +44,4 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num/"
 show_excerpts: true
-excerpt_length: 30
+excerpt_length: 25
