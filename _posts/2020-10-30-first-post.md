@@ -1,5 +1,5 @@
 ---
-title: Welcome to Daily Miscellany
+title: First post
 author: Ken Booth
 category: general
 layout: post
