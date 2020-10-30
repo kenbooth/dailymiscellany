@@ -1,7 +1,7 @@
 ---
-title: First post
-author: Ken Booth
-category: general
+title: "First post"
+author: "Ken Booth"
+category: literature
 layout: post
 ---
 
