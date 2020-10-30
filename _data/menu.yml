@@ -1,5 +1,5 @@
 - title: About
-  url: {% include site.url %}/about.html
+  url: {% site.url %}/about.html
 
 - title: Source
   url: https://github.com/patdryburgh/hitchens
