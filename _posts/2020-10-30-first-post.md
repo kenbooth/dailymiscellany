@@ -1,7 +1,7 @@
 ---
 title: "First post"
 author: "Ken Booth"
-category: general
+categories: general
 layout: post
 ---
 
