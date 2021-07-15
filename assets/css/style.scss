@@ -1,0 +1,178 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+body {
+font-family: 'Merriweather', serif;
+font-size: 16px;
+color: #606666;
+line-height: 1.8;
+background-color: #ffffff;
+}
+
+p {
+font-family: 'Merriweather', serif;
+}
+
+h3 a {
+    color: #606666;
+    text-decoration: none;
+}
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #ffffff;
+	background-image: url("https://boothlabs.com/testblog/files/backgroundImage_11.jpg");
+// background-image: linear-gradient(120deg, #155799, #159957);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+	  @include large {
+    padding: 1rem 6rem;
+  }
+
+  @include medium {
+    padding: 1rem 4rem;
+  }
+
+  @include small {
+    padding: 1rem 1rem;
+	}
+	}
+
+
+.project-name {
+margin-top: 25px;
+margin-bottom:-25px;
+}
+
+
+.project-name a {
+font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+color: #ffffff;
+opacity: 0.8;
+text-shadow: 1px 1px black;
+  @include large {
+    font-size: 5.25rem;
+  }
+
+  @include medium {
+    font-size: 4.25rem;
+  }
+
+  @include small {
+    font-size: 3.75rem;
+    line-height: 1.5;
+	}
+}
+
+.project-name a:hover {
+color: #ffffff;
+opacity: 0.5;
+text-decoration: none;
+text-transform: uppercase;
+text-shadow: 1px 1px black;
+  @include large {
+    font-size: 5.25rem;
+  }
+
+  @include medium {
+    font-size: 4.25rem;
+  }
+
+  @include small {
+    font-size: 3.75rem;
+	line-height: 1;
+	}
+}
+
+
+.project-tagline {
+margin-top: 0rem;
+font-family: 'Oswald', sans-serif;
+text-transform: none;
+font-size: 3rem;
+color: #ffffff;
+opacity: 0.9;
+text-shadow: 1px 1px black;
+  @include large {
+    font-size: 2rem;
+	margin-bottom: 1rem;
+  }
+
+  @include medium {
+    font-size: 1 rem;
+	margin-bottom: 1rem;
+  }
+
+  @include small {
+    font-size: .5 rem;
+	margin-top: .5rem;
+	margin-bottom: 2rem;
+	}
+}
+
+.main-content h1 {
+font-family: 'Lato', sans-serif;
+font-size: 3rem;
+line-height: 1.2;
+color: #606666;
+font-weight:900;
+margin-bottom: 10px;
+}
+
+.main-content h2 {
+font-family: 'Lato',  sans-serif;
+font-size: 2.5rem;
+color: #c4c4c4;
+// #303030
+font-weight:900;
+}
+
+.main-content h3 {
+font-family: 'Lato',  sans-serif;
+font-size: 1.5rem;
+color: #808888;
+font-weight:900;
+}
+
+// .homelink {
+// color: #373A3C;
+// text-decoration: underline;
+// }
+
+// .homelink a {
+// color: #373A3C;
+// text-decoration: underline;
+// }
+
+//.homeink a:hover {
+// color: #f0ffff;
+// text-decoration: underline;
+// }
+
+.homepost {
+border-width: 0px 0px .5px 0px; /* top, right, bottom, left */
+border-style: solid;
+border-color: #dcdcdc;
+padding-bottom: 15px;
+}
+
+.homeanchor {
+font-size: .75rem;
+margin-top: -15px;
+}
+
+.homesource {
+font-size: .75rem;
+padding-bottom: -4px;
+}
+
+.break {
+text-align:center;
+color:#6B6B6A;
+margin-top:-20px;
+margin-bottom:-20px;
+}
