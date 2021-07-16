@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 author: Ken Booth
 description: Sometimes Updated Daily
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://kenbooth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kenbooth.github.io/dailymiscellany" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: America/Chicago
 exclude:
