@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: "100 architecture terms used to describe buildings"
 author: ken_booth
 date: 2021-06-16 12:32:14
