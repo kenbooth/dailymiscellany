@@ -2,7 +2,7 @@ title: Daily Miscellany
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: Sometimes Updated Daily
-baseurl: "/daily-miscellany/" # the subpath of your site, e.g. /blog
+baseurl: "/daily-miscellany" # the subpath of your site, e.g. /blog
 url: "https://kenbooth.github.io/daily-miscellany/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: America/Chicago
