@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New header image: The Teton Range
+title: "New header image: The Teton Range"
 date: 2021-07-19 11:59
 category: photo
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomadland movie is better than the book
+title: "Nomadland movie is better than the book"
 author: ken_booth
 date: 2021-06-03 16:14:57
 intro_paragraph: ""
