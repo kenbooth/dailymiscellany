@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Ken Booth
+title: Daily Miscellany
 ---
