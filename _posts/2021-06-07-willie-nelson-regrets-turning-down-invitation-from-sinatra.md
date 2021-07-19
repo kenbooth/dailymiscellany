@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: quote
 title: Willie Nelson regrets turning down invitation from Sinatra
 author: ken_booth
 date: 2021-06-07 09:27:07
