@@ -1,13 +1,21 @@
+---
 title: Daily Miscellany
+timezone: America/Chicago
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: Sometimes Updated Daily
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://dailymiscellany.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: https://dailymiscellany.com/
 lang: en
-timezone: America/Chicago
 exclude:
- - README.md
- - CHANGELOG.md
-google_analytics:
+- README.md
+- CHANGELOG.md
+google_analytics: 
 paginate: 10

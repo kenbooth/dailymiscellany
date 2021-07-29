@@ -1,12 +1,15 @@
 ---
+title: 'Miscellany: A definition'
+date: 2021-06-02 11:04:25 -05:00
+categories:
+- Miscellany
+- Language
 layout: post
-title: "Miscellany: A definition"
 meta_description: Miscellany definition
 author: ken_booth
-date: 2021-06-02 16:04:25
-intro_paragraph: ""
-categories: Miscellany Language
+intro_paragraph: ''
 ---
+
 *noun*<br>
 mis·​cel·​la·​ny | ˈmi-sə-ˌlā-nē<br>
 plural: *miscellanies*<br>
