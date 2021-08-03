@@ -17,5 +17,15 @@ lang: en
 exclude:
 - README.md
 - CHANGELOG.md
-google_analytics: 
+google_analytics:
 paginate: 10
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "link"
+      link: ""
+      source: ""
