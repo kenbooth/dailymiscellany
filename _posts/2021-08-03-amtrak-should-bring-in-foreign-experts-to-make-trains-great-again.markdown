@@ -6,4 +6,4 @@ source: Slow Boring by Matt Yglesias
 layout: link
 ---
 
-Matt Yglesias makes aa good argument for focusing Amtrak funds on the northeast corridor. But then makes a better argument for withholding funds because of the bureaucratic waste that's bound to happen.
+Matt Yglesias makes a good argument for focusing Amtrak funds on the northeast corridor. But then makes a better argument for withholding funds because of the bureaucratic waste that's bound to happen.
