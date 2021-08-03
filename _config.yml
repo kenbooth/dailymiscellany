@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+    layout: link
+  values:
+    link: ''
+    source: ''
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: Sometimes Updated Daily
@@ -19,13 +27,3 @@ exclude:
 - CHANGELOG.md
 google_analytics:
 paginate: 10
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-      layout: "link"
-    values:
-      link: ""
-      source: ""
