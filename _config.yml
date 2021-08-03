@@ -13,6 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: post
     link: ''
     source: ''
 theme: jekyll-theme-cayman
