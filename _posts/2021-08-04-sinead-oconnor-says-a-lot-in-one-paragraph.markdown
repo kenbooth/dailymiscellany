@@ -1,6 +1,6 @@
 ---
 title: Sinéad O'Connor says a lot in one paragraph
-date: 2021-08-03 16:12:00 -05:00
+date: 2021-08-04 14:02:00 -05:00
 ---
 
 There is a lot packed into this paragraph from Sinead O'Connor's, "Rememberings."
