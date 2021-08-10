@@ -1,7 +1,7 @@
 ---
 title: An interview with founder of 'Glass,' a photographer-focused community and
   photosharing service
-date: 2021-08-10 09:53:05.723000000 -05:00
+date: 2021-08-10 09:53:05 -05:00
 link: https://om.co/2021/08/10/glass/
 source: om.co
 layout: link
