@@ -6,4 +6,4 @@ categories:
 - bonnaroo
 ---
 
-I made black and white versions of the *2021 Bonnaroo schedule* and shared them in Google Drive. The schedules released by Bonnaroo use a lot of ink and are a little hard on the eyes. They can be [downloaded here](https://drive.google.com/drive/folders/1I9oyEa2U8p9JQoqNI82J5lAOkbUC2x8Y?usp=sharing).
+I made black and white versions of the *2021 Bonnaroo schedule* and shared them in Google Drive. The schedules released by Bonnaroo use a lot of ink and are a little hard on the eyes. The black and white printable versions can be [downloaded here](https://drive.google.com/drive/folders/1I9oyEa2U8p9JQoqNI82J5lAOkbUC2x8Y?usp=sharing).
