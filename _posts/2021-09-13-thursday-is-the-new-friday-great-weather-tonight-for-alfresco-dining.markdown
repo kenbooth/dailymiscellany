@@ -1,6 +1,6 @@
 ---
-title: Thursday is the new Friday. Great weather tonight for alfresco dining.
-date: 2021-09-13 16:29:28 -05:00
+title: Thursday is the new Friday
+date: 2021-09-13 16:29:00 -05:00
 layout: image
 ---
 
