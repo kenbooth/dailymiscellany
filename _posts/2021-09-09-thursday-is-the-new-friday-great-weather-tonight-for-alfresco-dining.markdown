@@ -1,6 +1,6 @@
 ---
 title: Thursday is the new Friday
-date: 2021-09-13 16:29:00 -05:00
+date: 2021-09-09 21:29:00 -05:00
 layout: image
 ---
 
