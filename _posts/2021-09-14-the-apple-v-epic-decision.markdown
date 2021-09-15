@@ -1,6 +1,6 @@
 ---
 title: The Apple v. Epic decision
-date: 2021-09-14 09:38:49.157000000 -05:00
+date: 2021-09-14 09:38:49 -05:00
 link: https://stratechery.com/2021/the-apple-v-epic-decision/
 source: Stratechery
 layout: link
