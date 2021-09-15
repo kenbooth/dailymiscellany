@@ -18,12 +18,12 @@ defaults:
     source: ''
 theme: jekyll-theme-cayman
 author: Ken Booth
-description: Sometimes Updated Daily
+description: A Scrapbook of Images, Ideas and Ephemera
 baseurl: "/"
 url: https://dailymiscellany.com/
 lang: en
 exclude:
 - README.md
 - CHANGELOG.md
-google_analytics: 
+google_analytics:
 paginate: 10
