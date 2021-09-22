@@ -4,5 +4,5 @@ date: 2021-09-22 15:48:00 -05:00
 layout: image
 ---
 
-<img src="https://www.dropbox.com/s/taysvho7laqb7m3/241960481_1533314857021974_165288117251382407_n.jpg?dl=0"><br>
+<img src="https://dl.dropboxusercontent.com/s/taysvho7laqb7m3/241960481_1533314857021974_165288117251382407_n.jpg?dl=0"><br>
 Decorative birdhouse and planter. (<a href="https://www.instagram.com/p/CT21lpIvIeb/">From Instagram post.</a>)
