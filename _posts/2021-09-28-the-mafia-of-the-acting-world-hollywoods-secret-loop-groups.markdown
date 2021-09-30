@@ -1,6 +1,6 @@
 ---
 title: "“The mafia of the acting world”: Hollywood’s secret loop groups"
-date: 2021-09-28 13:33:17.275000000 -05:00
+date: 2021-09-28 13:33:17 -05:00
 link: https://www.hollywoodreporter.com/business/business-news/hollywood-loop-groups-background-actors-1235013426/
 source: The Hollywood Reporter
 layout: link
